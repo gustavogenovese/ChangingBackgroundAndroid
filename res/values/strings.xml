@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ChangingBackground</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="go_to_second">Go Forward</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="go_back">Go Back</string>
+
+</resources>
